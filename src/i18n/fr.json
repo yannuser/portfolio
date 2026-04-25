@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact"
+  },
+  "home": {
+    "eyebrow": "Portfolio · 2026",
+    "subtitle": "Étudiant en génie logiciel",
+    "tagline": "Je construis des choses qui comptent.",
+    "cv": "Télécharger le CV"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Curieux par nature,\nrigoureux par choix.",
+    "body": "Je suis étudiant en informatique à l'UQO à Gatineau, passionné par le génie logiciel. J'aime construire des systèmes complets, explorer la sécurité et me dépasser — comme ma 3e place aux CS Games Québec 2026.",
+    "badge": "🏆 3e place · CS Games Québec 2026"
+  },
+  "projects": {
+    "eyebrow": "Projets",
+    "title": "Travaux choisis.",
+    "counter": "sur",
+    "view": "Voir le dépôt →",
+    "live": "Voir le site →"
+  },
+  "skills": {
+    "eyebrow": "Compétences",
+    "title": "Ma boîte à outils.",
+    "langs": "Langages",
+    "libs": "Frameworks & Bibliothèques",
+    "tools": "Outils & Concepts"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Construisons quelque chose ensemble.",
+    "name": "Nom",
+    "email": "Courriel",
+    "message": "Message",
+    "send": "Envoyer",
+    "sending": "Envoi en cours…",
+    "sent": "Message envoyé ! Je vous répondrai bientôt.",
+    "error": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "hint": "Utilisez ← → ou glissez pour naviguer"
+}

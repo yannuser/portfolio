@@ -1,0 +1,47 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "home": {
+    "eyebrow": "Portfolio · 2026",
+    "subtitle": "Software Engineering Student",
+    "tagline": "Building things that matter.",
+    "cv": "Download CV"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Curious by default,\nrigorous by design.",
+    "body": "I'm a Computer Science student at UQO in Gatineau, passionate about software engineering. I love building full-stack systems, digging into security, and pushing my limits — like placing 3rd at the Quebec CS Games 2026.",
+    "badge": "🏆 3rd place · CS Games Québec 2026"
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected work.",
+    "counter": "of",
+    "view": "View repository →",
+    "live": "Visit live →"
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "A working toolkit.",
+    "langs": "Languages",
+    "libs": "Frameworks & Libraries",
+    "tools": "Tools & Concepts"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's build something together.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send signal",
+    "sending": "Sending…",
+    "sent": "Message sent! I'll get back to you soon.",
+    "error": "Something went wrong. Please try again."
+  },
+  "hint": "Use ← → keys or swipe to navigate"
+}
