@@ -1,12 +1,11 @@
 # Portfolio
 
-Personal portfolio site built with React, TypeScript, and Vite. Features a cinematic liquid-blob UI, bilingual EN/FR content, EmailJS contact form, and Umami analytics.
+Personal portfolio site built with React, TypeScript, and Vite. Features a cinematic liquid-blob UI, bilingual EN/FR content, and an EmailJS contact form.
 
 ## Stack
 
 - **React 18** + **TypeScript** + **Vite**
 - **EmailJS** — contact form, no backend needed
-- **Umami** — privacy-friendly analytics (add after deploying)
 
 ## Project structure
 
@@ -40,8 +39,6 @@ VITE_EMAILJS_SERVICE_ID=
 VITE_EMAILJS_TEMPLATE_ID=
 VITE_EMAILJS_PUBLIC_KEY=
 
-# Umami — https://cloud.umami.is (fill in after deploying)
-VITE_UMAMI_WEBSITE_ID=
 ```
 
 ### EmailJS setup
@@ -51,11 +48,6 @@ VITE_UMAMI_WEBSITE_ID=
 3. **Email Templates** → create a template with variables `{{from_name}}`, `{{from_email}}`, `{{message}}` → copy the Template ID
 4. **Account** → **Public Key** → copy it
 
-### Umami setup
-
-1. Deploy the site first
-2. Create an account at [cloud.umami.is](https://cloud.umami.is)
-3. Add your site URL → go to **Tracking Code** → copy the `data-website-id` value
 
 ## Adding a project
 
